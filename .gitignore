@@ -1,0 +1,15 @@
+gen_cmd_setting.py
+*.pyc
+*.gz
+_*
+data/
+data
+data_*
+savings/
+.ipynb_checkpoints/
+*.ipynb
+!.gitignore
+!__init__.py
+!data_util.py
+!data_iterator.py
+
